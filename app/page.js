@@ -29,8 +29,8 @@ export default function Home() {
 
   return (
     <>
-      <div className="flex items-center justify-center">
-        <div className="flex-col bg-blue-50 border-2 md:w-[50%] md:h-[50%] w-full p-3  ">
+      <div className="flex mt-14 items-center justify-center">
+        <div className="flex-col bg-blue-50 border-2 sm:w-[50%] sm:h-[50%] w-full p-3  ">
           <h1 className="text-2xl font-bold text-center my-8  ">
             Random Jokes Generator
           </h1>
